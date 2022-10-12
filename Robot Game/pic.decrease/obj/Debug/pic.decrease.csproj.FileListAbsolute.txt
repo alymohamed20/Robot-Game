@@ -1,0 +1,37 @@
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\bin\Debug\pic.decrease.exe.config
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\bin\Debug\pic.decrease.exe
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\bin\Debug\pic.decrease.pdb
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\obj\Debug\pic.decrease.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\obj\Debug\pic.decrease.Properties.Resources.resources
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\obj\Debug\pic.decrease.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\obj\Debug\pic.decrease.exe
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\obj\Debug\pic.decrease.pdb
+C:\Users\pc\source\repos\pic.decrease\pic.decrease\obj\Debug\pic.decrease.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\project MM game\pic.decrease\bin\Debug\pic.decrease.exe.config
+C:\Users\pc\Desktop\project MM game\pic.decrease\bin\Debug\pic.decrease.exe
+C:\Users\pc\Desktop\project MM game\pic.decrease\bin\Debug\pic.decrease.pdb
+C:\Users\pc\Desktop\project MM game\pic.decrease\obj\Debug\pic.decrease.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\project MM game\pic.decrease\obj\Debug\pic.decrease.Properties.Resources.resources
+C:\Users\pc\Desktop\project MM game\pic.decrease\obj\Debug\pic.decrease.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\project MM game\pic.decrease\obj\Debug\pic.decrease.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\project MM game\pic.decrease\obj\Debug\pic.decrease.exe
+C:\Users\pc\Desktop\project MM game\pic.decrease\obj\Debug\pic.decrease.pdb
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\bin\Debug\pic.decrease.exe.config
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\bin\Debug\pic.decrease.exe
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\bin\Debug\pic.decrease.pdb
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\obj\Debug\pic.decrease.csprojAssemblyReference.cache
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\obj\Debug\pic.decrease.Properties.Resources.resources
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\obj\Debug\pic.decrease.csproj.GenerateResource.cache
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\obj\Debug\pic.decrease.csproj.CoreCompileInputs.cache
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\obj\Debug\pic.decrease.exe
+D:\MSA University\Semester 4\CS232\New folder (3)\project MM game\pic.decrease\obj\Debug\pic.decrease.pdb
+C:\Users\pc\Desktop\Robot Game\pic.decrease\bin\Debug\pic.decrease.exe.config
+C:\Users\pc\Desktop\Robot Game\pic.decrease\bin\Debug\pic.decrease.exe
+C:\Users\pc\Desktop\Robot Game\pic.decrease\bin\Debug\pic.decrease.pdb
+C:\Users\pc\Desktop\Robot Game\pic.decrease\obj\Debug\pic.decrease.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Robot Game\pic.decrease\obj\Debug\pic.decrease.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Robot Game\pic.decrease\obj\Debug\pic.decrease.Properties.Resources.resources
+C:\Users\pc\Desktop\Robot Game\pic.decrease\obj\Debug\pic.decrease.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Robot Game\pic.decrease\obj\Debug\pic.decrease.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Robot Game\pic.decrease\obj\Debug\pic.decrease.exe
+C:\Users\pc\Desktop\Robot Game\pic.decrease\obj\Debug\pic.decrease.pdb
